@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Alert from 'react-bootstrap/Alert'
 import { Link } from "react-router-dom";
 import {Redirect} from 'react-router-dom';
-import AccountPage from "./AccountPage";
+
 import Button from 'react-bootstrap/Button'
 
 class SignInForm extends Component {
